@@ -8,7 +8,7 @@ entries:
           description: upgrade app version to 0.3.14
     apiVersion: v2
     appVersion: 0.3.14
-    created: "2024-10-25T19:24:46.486078+02:00"
+    created: "2024-10-25T19:34:41.524406+02:00"
     description: Get up and running with large language models locally.
     digest: 6f345baa25fd444ed099565cd388d980ff11c36a32b6ac30d6b8fcfaa455a634
     home: https://ollama.ai/
@@ -35,7 +35,7 @@ entries:
       licenses: MIT
     apiVersion: v2
     appVersion: 0.1.107
-    created: "2024-10-25T19:24:46.489306+02:00"
+    created: "2024-10-25T19:34:41.52807+02:00"
     dependencies:
     - condition: ollama.enabled
       name: ollama
@@ -63,4 +63,4 @@ entries:
     urls:
     - https://mbtraore.github.io/opo-helm-chart/open-webui-3.4.0.tgz
     version: 3.4.0
-generated: "2024-10-25T19:24:46.482968+02:00"
+generated: "2024-10-25T19:34:41.520434+02:00"
