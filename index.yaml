@@ -52,7 +52,7 @@ entries:
     - llm
     - llama
     maintainers:
-    - email: mbarre.traore-ext@iledefrance-mobilites.fr
+    - email: mb.traore@outlook.com
       name: mbtraore
       url: https://mbarre.fr
     name: open-webui
